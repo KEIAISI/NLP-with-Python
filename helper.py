@@ -10,4 +10,4 @@ def load_data(path):
         data = f.read()
 
     return data.split('\n')
-/learning
+/new learner
